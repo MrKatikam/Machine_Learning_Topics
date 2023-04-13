@@ -1,0 +1,22 @@
+ML Algorithms are generally broken down into two types - supervised and unsupervised. 
+
+K-Means clustering is one of the unsupervised algorithms because the input data does not have a labeled response.
+
+Clustering : It is the process of grouping data points into different sets based on their degree of similarity.
+    
+    Types of Clustering:
+        1. Hierarchical Clustering:
+                It builds a hierarchy of clusters based on the similarity between data points. 
+                It can be divided into two categories: 
+                             a. Agglomerative clustering (bottom-up) 
+                             b. Divisive Clustering (top-down)
+        2. Partitioning Clustering:
+                 a. K-Means clustering :
+                      This method groups data points into K clusters based on their similarity.
+                      It works by iteratively assigning each data point to the closest cluster center and 
+                      updating the cluster centers based on the mean of the points in the cluster.
+                 b. Fuzzy C-Means clustering :
+        
+                 
+          
+      
